@@ -1,4 +1,4 @@
-# nft-generator
+# ducks!
 Generate any number of ducks with randomized colors and accessories.
 
 ## Getting started

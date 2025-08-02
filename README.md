@@ -6,7 +6,7 @@ Generate any number of ducks with randomized colors and accessories.
 ### Installation
 - Clone the repo & install dependencies with pip
 ```
-git clone https://github.com/poonchoi/nft-generator
+git clone https://github.com/danielegolzio/ducks
 ```
 ```
 pip install -r requirements.txt
